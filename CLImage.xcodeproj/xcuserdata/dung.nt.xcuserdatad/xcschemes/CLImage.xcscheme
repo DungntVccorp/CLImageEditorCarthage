@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "99FD6F391DEE6EF4002B028F"
-               BuildableName = "CLImageEditor.framework"
-               BlueprintName = "CLImageEditor"
-               ReferencedContainer = "container:CLImageEditor.xcodeproj">
+               BlueprintIdentifier = "99FD6FE71DEE89C7002B028F"
+               BuildableName = "CLImage.framework"
+               BlueprintName = "CLImage"
+               ReferencedContainer = "container:CLImage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "99FD6F391DEE6EF4002B028F"
-            BuildableName = "CLImageEditor.framework"
-            BlueprintName = "CLImageEditor"
-            ReferencedContainer = "container:CLImageEditor.xcodeproj">
+            BlueprintIdentifier = "99FD6FE71DEE89C7002B028F"
+            BuildableName = "CLImage.framework"
+            BlueprintName = "CLImage"
+            ReferencedContainer = "container:CLImage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "99FD6F391DEE6EF4002B028F"
-            BuildableName = "CLImageEditor.framework"
-            BlueprintName = "CLImageEditor"
-            ReferencedContainer = "container:CLImageEditor.xcodeproj">
+            BlueprintIdentifier = "99FD6FE71DEE89C7002B028F"
+            BuildableName = "CLImage.framework"
+            BlueprintName = "CLImage"
+            ReferencedContainer = "container:CLImage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
