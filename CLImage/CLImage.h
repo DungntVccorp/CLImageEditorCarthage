@@ -15,5 +15,10 @@ FOUNDATION_EXPORT double CLImageVersionNumber;
 FOUNDATION_EXPORT const unsigned char CLImageVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CLImage/PublicHeader.h>
+#import <CLImage/CLImageEditor.h>
+#import <CLImage/CLImageEditorTheme.h>
+#import <CLImage/CLImageToolInfo.h>
+#import <CLImage/_CLImageEditorViewController.h>
+
 
 
