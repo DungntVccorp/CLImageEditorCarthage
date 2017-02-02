@@ -45,7 +45,6 @@
 		99FD70671DEE89E4002B028F /* CLFilterBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FD701D1DEE89E4002B028F /* CLFilterBase.m */; };
 		99FD70681DEE89E4002B028F /* CLFilterTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FD701E1DEE89E4002B028F /* CLFilterTool.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FD70691DEE89E4002B028F /* CLFilterTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FD701F1DEE89E4002B028F /* CLFilterTool.m */; };
-		99FD706A1DEE89E4002B028F /* CLImageToolBase.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FD70201DEE89E4002B028F /* CLImageToolBase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FD706B1DEE89E4002B028F /* CLImageToolBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FD70211DEE89E4002B028F /* CLImageToolBase.m */; };
 		99FD706C1DEE89E4002B028F /* CLRotateTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FD70231DEE89E4002B028F /* CLRotateTool.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FD706D1DEE89E4002B028F /* CLRotateTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FD70241DEE89E4002B028F /* CLRotateTool.m */; };
@@ -379,7 +378,6 @@
 				99FD70501DEE89E4002B028F /* CLClippingTool.h in Headers */,
 				99FD70681DEE89E4002B028F /* CLFilterTool.h in Headers */,
 				99FD70601DEE89E4002B028F /* CLSpotEffect.h in Headers */,
-				99FD706A1DEE89E4002B028F /* CLImageToolBase.h in Headers */,
 				99FD70801DEE89E4002B028F /* CLSplineInterpolator.h in Headers */,
 				99FD706E1DEE89E4002B028F /* CLToneCurveTool.h in Headers */,
 				99FD70481DEE89E4002B028F /* CLImageEditorTheme.h in Headers */,
@@ -436,7 +434,7 @@
 		99FD6FDF1DEE89C7002B028F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0810;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Nguyen Dung";
 				TargetAttributes = {
 					99FD6FE71DEE89C7002B028F = {
@@ -536,6 +534,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -589,6 +588,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
