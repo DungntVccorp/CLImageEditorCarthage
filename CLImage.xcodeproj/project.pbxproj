@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		99DB5B2C1E7249E70024590B /* CLImageToolBase.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FD70201DEE89E4002B028F /* CLImageToolBase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FD6FED1DEE89C7002B028F /* CLImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FD6FEB1DEE89C7002B028F /* CLImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FD70451DEE89E4002B028F /* CLImageEditor.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 99FD6FF31DEE89E4002B028F /* CLImageEditor.bundle */; };
 		99FD70461DEE89E4002B028F /* CLImageEditor.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FD6FF41DEE89E4002B028F /* CLImageEditor.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -402,6 +403,7 @@
 				99FD70741DEE89E4002B028F /* CLImageEditorTheme+Private.h in Headers */,
 				99FD705C1DEE89E4002B028F /* CLPixellateEffect.h in Headers */,
 				99FD70781DEE89E4002B028F /* CLImageToolProtocol.h in Headers */,
+				99DB5B2C1E7249E70024590B /* CLImageToolBase.h in Headers */,
 				99FD707C1DEE89E4002B028F /* UIView+CLImageToolInfo.h in Headers */,
 				99FD70581DEE89E4002B028F /* CLHighlightShadowEffect.h in Headers */,
 			);
